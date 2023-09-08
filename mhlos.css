@@ -1,0 +1,31 @@
+body{
+    background-color:blue;
+    color: white;
+    display: flex;
+    text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.carousel-inner { 
+    height: 0;
+    padding-bottom: 25%;
+}
+
+.carousel-item{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    object-fit: cover;
+}

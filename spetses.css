@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#spetses-img {
+    margin-top: -20px;
+    height: 300px;
+}
+
+#carouselExampleIndicators {
+    max-width: 580px;
+}
+
+.carousel-item  {
+ height: 400px;
+}
+
+.text {
+    width: 40%;
+    padding: 30px;
+    margin-bottom: 30px;
+    line-height: 40px;
+    
+}
+
+h1 {
+    font-size: 80px;
+    margin-top: -80px;
+}
+
+#header, #beach, #night, #accomodation {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bg-blue {
+    background-color: rgb(59, 111, 255);
+}
+
+ul {
+    text-align: left;
+}
+
+Li {
+    font-size: 30px;
+}
+
+.links{
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}

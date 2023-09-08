@@ -1,0 +1,15 @@
+#header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(44, 44, 209);
+}
+h1{
+    padding-top: 40px;
+}
+img{
+    height: 600px;
+    box-shadow: -10px 10px 30px rgb(228, 214, 214), 10px -10px 30px 
+}
+h2{
+    padding-bottom: 30px;
+}
